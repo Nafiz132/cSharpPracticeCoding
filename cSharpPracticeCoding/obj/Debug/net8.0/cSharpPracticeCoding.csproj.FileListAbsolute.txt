@@ -1,0 +1,15 @@
+C:\Users\nafiz\source\repos\cSharpPracticeCoding\cSharpPracticeCoding\obj\Debug\net8.0\cSharpPracticeCoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nafiz\source\repos\cSharpPracticeCoding\cSharpPracticeCoding\obj\Debug\net8.0\cSharpPracticeCoding.AssemblyInfoInputs.cache
+C:\Users\nafiz\source\repos\cSharpPracticeCoding\cSharpPracticeCoding\obj\Debug\net8.0\cSharpPracticeCoding.AssemblyInfo.cs
+C:\Users\nafiz\source\repos\cSharpPracticeCoding\cSharpPracticeCoding\obj\Debug\net8.0\cSharpPracticeCoding.csproj.CoreCompileInputs.cache
+C:\Users\nafiz\source\repos\cSharpPracticeCoding\cSharpPracticeCoding\obj\Debug\net8.0\cSharpPracticeCoding.sourcelink.json
+C:\Users\nafiz\source\repos\cSharpPracticeCoding\cSharpPracticeCoding\bin\Debug\net8.0\cSharpPracticeCoding.exe
+C:\Users\nafiz\source\repos\cSharpPracticeCoding\cSharpPracticeCoding\bin\Debug\net8.0\cSharpPracticeCoding.deps.json
+C:\Users\nafiz\source\repos\cSharpPracticeCoding\cSharpPracticeCoding\bin\Debug\net8.0\cSharpPracticeCoding.runtimeconfig.json
+C:\Users\nafiz\source\repos\cSharpPracticeCoding\cSharpPracticeCoding\bin\Debug\net8.0\cSharpPracticeCoding.dll
+C:\Users\nafiz\source\repos\cSharpPracticeCoding\cSharpPracticeCoding\bin\Debug\net8.0\cSharpPracticeCoding.pdb
+C:\Users\nafiz\source\repos\cSharpPracticeCoding\cSharpPracticeCoding\obj\Debug\net8.0\cSharpPracticeCoding.dll
+C:\Users\nafiz\source\repos\cSharpPracticeCoding\cSharpPracticeCoding\obj\Debug\net8.0\refint\cSharpPracticeCoding.dll
+C:\Users\nafiz\source\repos\cSharpPracticeCoding\cSharpPracticeCoding\obj\Debug\net8.0\cSharpPracticeCoding.pdb
+C:\Users\nafiz\source\repos\cSharpPracticeCoding\cSharpPracticeCoding\obj\Debug\net8.0\cSharpPracticeCoding.genruntimeconfig.cache
+C:\Users\nafiz\source\repos\cSharpPracticeCoding\cSharpPracticeCoding\obj\Debug\net8.0\ref\cSharpPracticeCoding.dll

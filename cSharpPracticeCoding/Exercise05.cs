@@ -143,9 +143,9 @@ namespace PracticeExercise
         }
         static void Main(string[] args)
         {
-            //Exercise01();
-            //Exercise02();
-            //Exercise03();
+            Exercise01();
+            Exercise02();
+            Exercise03();
             Exercise04();
         }
     }

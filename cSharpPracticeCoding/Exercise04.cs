@@ -103,12 +103,12 @@ namespace PracticeExercise
             }
 
         }
-        //static void Main(string[] args)
-        //{
-        //    // Exercise1();
-        //    //Exercise2();
-        //    //Exercise3();
-        //    Exercise4();
-        //}
+        static void Main(string[] args)
+        {
+            Exercise1();
+            Exercise2();
+            Exercise3();
+            Exercise4();
+        }
     }
 }

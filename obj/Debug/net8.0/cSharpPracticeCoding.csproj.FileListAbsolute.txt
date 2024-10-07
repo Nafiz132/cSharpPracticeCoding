@@ -1,0 +1,5 @@
+C:\Users\nafiz\source\repos\cSharpPracticeCoding\obj\Debug\net8.0\cSharpPracticeCoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nafiz\source\repos\cSharpPracticeCoding\obj\Debug\net8.0\cSharpPracticeCoding.AssemblyInfoInputs.cache
+C:\Users\nafiz\source\repos\cSharpPracticeCoding\obj\Debug\net8.0\cSharpPracticeCoding.AssemblyInfo.cs
+C:\Users\nafiz\source\repos\cSharpPracticeCoding\obj\Debug\net8.0\cSharpPracticeCoding.csproj.CoreCompileInputs.cache
+C:\Users\nafiz\source\repos\cSharpPracticeCoding\obj\Debug\net8.0\cSharpPracticeCoding.sourcelink.json
